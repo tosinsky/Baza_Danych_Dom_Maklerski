@@ -7,9 +7,13 @@ Użyte oprogramowanie:
 * Oracle SQL Developer
 
 Model konceptualny:
+<br/><br/>
+![Alt text](model_konceptualny.png?raw=true "Title")
 
+<br/><br/>
 
 Model logiczny:
+<br/><br/>
+![Alt text](model_logiczny.png?raw=true "Title")
 
-
-Po więcej informacji zapraszam do przeczytania dokumentacji.
+Po więcej informacji zapraszam do przejrzenia dokumentacji.
